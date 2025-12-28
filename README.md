@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact, I like reading books and watching anime
 
-- 📫 You can reach out to me through my email "nedesign69@gmail.com" or on Whatsapp @07015900892 or on IG @nedys_designs 
+- 📫 You can reach out to me through my email nedykingsbusiness@gmail.com or on WhatsApp +2347015900892
 
 <!---
 NedytheCoder/NedytheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
