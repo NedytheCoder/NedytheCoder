@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/nedyking7" style="text-decoration: none; text-color: #007bff;">Instagram</a>
 <a href="https://x.com/NedyKing">Twitter</a>
 <a href="https://www.t.me/nedyking7">Telegram</a>
+<a href="https://www.linkedin.com/in/linkned/">LinkedIn</a>
 
 
 
