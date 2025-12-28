@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chinedu Ezeruigbo
+<h1>👋 Hi, I’m Chinedu Ezeruigbo</h1>
   
 🔭 I’m currently working on Swole (A mobile fitness app).
 
