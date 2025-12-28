@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @NedytheCoder
-- 👀 I’m interested in coding awesome websites
-- 💞️ I’m looking to collaborate with full-stack devs
+- 👋 Hi, I’m Chinedu Ezeruigbo
+  
+🔭 I’m currently working on Swole (A mobile fitness app).
+
+🌱 I’m currently learning AI Engineering
+
+⚡ Fun fact I love swimming and watching anime
+
 - 📫 You can reach out to me through my email "nedesign69@gmail.com" or on Whatsapp @07015900892 or on IG @nedys_designs 
 
 <!---
