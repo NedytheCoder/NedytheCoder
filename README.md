@@ -1,10 +1,11 @@
-<h1>👋 Hi, I’m Chinedu Ezeruigbo</h1>
+<h1 style="text-align: center;">👋 Hi, I’m Chinedu Ezeruigbo</h1>
+<h3 classname="text-center">An AI/ML researcher from Nigeria</h3>
   
-🔭 I’m currently working on Swole (A mobile fitness app).
+🔭 Right now, I'm working on a dataset which will be used to train my model
 
-🌱 I’m currently learning AI Engineering
+🌱 I’m currently doing my masters in AI 
 
-⚡ Fun fact I love swimming and watching anime
+⚡ Fun fact, I like reading books and watching anime
 
 - 📫 You can reach out to me through my email "nedesign69@gmail.com" or on Whatsapp @07015900892 or on IG @nedys_designs 
 
