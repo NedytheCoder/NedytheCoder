@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">👋 Hi, I’m Chinedu Ezeruigbo</h1>
-<h3 classname="text-center">🎓 Incoming MSc Artificial Intelligence student </h3>
+<h1 style="text-align: center;">👋 Hi, I’m Kingson Ezeruigbo</h1>
+<h3 classname="text-center">🎓 MSc Artificial Intelligence student at NCI</h3>
  
 - 🧠 Computer Science graduate with a strong interest in machine learning and applied AI  
-- 🔬 Currently building foundations in data analysis, ML concepts, and research workflows  
+- 🔬 Currently reinforcing my skills in data analysis, ML concepts, and research workflows  
 
 <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/linkned/">LinkedIn</a>
